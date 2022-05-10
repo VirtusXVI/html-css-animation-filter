@@ -16,6 +16,15 @@
     height: 100px;
     background: red;
 }
+
+/* SOLUZIONE ES.2 */
+
+.ex-2-square:active{
+    width: 400px;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+
 .ex-3-square {
     width: 100px;
     height: 100px;
